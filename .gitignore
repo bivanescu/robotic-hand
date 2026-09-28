@@ -1,0 +1,12 @@
+.DS_Store
+*.zip
+
+# Experimental Arduino sketches
+/hand_code_unconnected/
+/hand_receiving_test/
+/receiving_command_states/
+/servos_test_receiver_hand/
+/sketch_jun8a/
+
+# Imported legacy export
+/wetransfer_code-zip_2026-06-04_1649/
